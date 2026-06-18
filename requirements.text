@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+supabase
+pydantic
+python-dotenv
+httpx
+reportlab
+pypdf
+opencv-python-headless
+numpy
